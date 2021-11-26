@@ -1,6 +1,12 @@
 # Microservices Demo
 
-Server: Eureka Server 
-API Gateway: Spring Cloud Gateway
-Services: Load Balancing Eureka Clients(OrderService and PaymentService)
-Circuit Breaker: Hystrix Client
+<ul>
+  <li>Server: Eureka Server</li>
+  <li>API Gateway: Spring Cloud Gateway</li>
+  <li>Services: Load Balancing Eureka Clients(OrderService and PaymentService)</li>
+  <li>Circuit Breaker: Hystrix Client</li>
+</ul>
+ 
+
+
+
