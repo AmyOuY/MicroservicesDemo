@@ -1,0 +1,12 @@
+[submodule "APIGateway"]
+	path = APIGateway
+	url = https://github.com/AmyOuY/APIGateway.git
+[submodule "PaymentService"]
+	path = PaymentService
+	url = https://github.com/AmyOuY/PaymentService.git
+[submodule "OrderService"]
+	path = OrderService
+	url = https://github.com/AmyOuY/OrderService.git
+[submodule "EurekaServer"]
+	path = EurekaServer
+	url = https://github.com/AmyOuY/EurekaServer.git
